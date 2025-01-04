@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5144858e30a95cf44ae8c4d10fa1ba3b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Fusion Pixel 10px Monospaced ko
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 70441e4d681253746b3ed8b95f2f17d9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
